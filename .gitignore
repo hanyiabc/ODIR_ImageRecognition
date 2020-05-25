@@ -1,0 +1,13 @@
+train/*
+train/
+
+logs/*
+logs/
+
+ODIR-5K_Testing_Images/*
+ODIR-5K_Testing_Images/
+ODIR-5K_Training_Dataset/
+ODIR-5K_Training_Dataset/*
+
+data/*
+data/
